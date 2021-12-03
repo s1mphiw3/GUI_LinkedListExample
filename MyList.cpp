@@ -7,7 +7,7 @@ using namespace std;
 void Init (List& L)//function to initalise list
 { L = NULL; } // L points to  nothing;}
 
-bool IsEmpty (List L)
+bool IsEmpty (List L)//check if is empty
 {return (L == NULL); }
 
 void Insert (DataType e, List& L)//function to insert values onto list

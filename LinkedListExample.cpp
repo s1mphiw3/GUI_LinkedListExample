@@ -1,4 +1,4 @@
-// LinkedList Example : Console Application
+// cloned LinkedList Example : Console Application
 #include "stdafx.h"
 #include "MyList.h"
 #include <iostream>
@@ -13,6 +13,6 @@ int _tmain(int argc, _TCHAR* argv[]){
 
 
 	system("pause");
-	return 0;
+	return 0;//terminates progamme
 }
 
